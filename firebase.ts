@@ -8,7 +8,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCPx0gmPXF88jGr6IcGqBwg-pf_LK5Y3jo",
+    apiKey: "Your_API_Key",
     authDomain: "pdf-talk-2391e.firebaseapp.com",
     projectId: "pdf-talk-2391e",
     storageBucket: "pdf-talk-2391e.appspot.com",
